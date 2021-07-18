@@ -5,8 +5,7 @@ This is a College Project for Object Oriented Programming with Java
  * Course Instructor: Mr. Suhaas KP, Assistant Professor, Department of Information Science and Engineering,
  * The National Institute Of Engineering, Mysuru 570008
  * TOPIC: Apple Education Store Catalogue
- * AIM: To provide users with the contents of the products available in the Apple Education store at student discounts
- * and to redirect them to the link where they can buy the product directly from Apple Inc.
+ * AIM: To provide users with the contents of the products available in the Apple Education store at student discounts and to redirect them to the link where they      can buy the product directly from Apple Inc.
  * Reason for this Project : 
  * Many people are unaware of the presence of Apple's Education Store and hence shy away from Apple Products
  * due to their high pricing which is more than the value the product has to offer.
