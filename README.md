@@ -14,6 +14,7 @@ AIM: To provide users with the contents of the products available in the Apple E
 Reason for this Project : 
  * Many people are unaware of the presence of Apple's Education Store and hence shy away from Apple Products due to their high pricing which is more than the value    the product has to offer.
  * I am hoping for that to change when people view this program and understand the benefits of Apple Products over others and opt for them if they are interested      and get the Student Discounts!
+
 Concepts Illustrated:
  * Abstraction- Classes. 	  
  * Scope and Lifetime of variables.	 
