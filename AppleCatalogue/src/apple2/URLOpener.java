@@ -69,18 +69,18 @@ public class URLOpener
 	    if(x==1 && z!=1) {
 	    	System.out.println("Redirecting you again to Apple's Education Website for you to get more Information regarding the same");
 			Desktop d = Desktop.getDesktop();
-			d.browse(new URI("file:///Users/ppradyoth/Documents/IV%20SEMESTER/Java%20Lab%20Programs/JAVA%20PROJECT/photos%20for%20java%20project/WHYPA.jpeg") ); 
-//			d.browse(new URI("https://ibb.co/H2bV8dF"));
-			try
-			{
-			    Thread.sleep(3000);
-			}
-			catch(InterruptedException ex)
-			{
-			    Thread.currentThread().interrupt();
-			}
-			d.browse(new URI("file:///Users/ppradyoth/Documents/IV%20SEMESTER/Java%20Lab%20Programs/JAVA%20PROJECT/photos%20for%20java%20project/reaction.jpeg") );
-//     		d.browse(new URI("https://ibb.co/X8YkC00"));
+// 			d.browse(new URI("file:///Users/ppradyoth/Documents/IV%20SEMESTER/Java%20Lab%20Programs/JAVA%20PROJECT/photos%20for%20java%20project/WHYPA.jpeg") ); 
+// //			d.browse(new URI("https://ibb.co/H2bV8dF"));
+// 			try
+// 			{
+// 			    Thread.sleep(3000);
+// 			}
+// 			catch(InterruptedException ex)
+// 			{
+// 			    Thread.currentThread().interrupt();
+// 			}
+// 			d.browse(new URI("file:///Users/ppradyoth/Documents/IV%20SEMESTER/Java%20Lab%20Programs/JAVA%20PROJECT/photos%20for%20java%20project/reaction.jpeg") );
+    		d.browse(new URI("https://ibb.co/X8YkC00"));
      		
 			try
 			{
