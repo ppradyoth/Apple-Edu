@@ -29,7 +29,7 @@ This is a College Project for Object Oriented Programming with Java
  * Interfaces.			
  * Exception Handling. 				
  * Creation of thread to execute a certain process.  
- * Few string handling mechanisms (optional depending on your project). 
+ * Few string handling mechanisms.
  * Usage of URI.
 
 The program is divided into two files in two packages in order to illustrate the concept of Packages in Java.
