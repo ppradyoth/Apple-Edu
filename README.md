@@ -41,5 +41,5 @@ Project Conclusion: This project successfully completes its 2 primary objectives
                         1. Displays contents of Apple Education store.
                         2. Redirects users to the link where they can buy the product directly from Apple Inc.
 
-Project Demo is available on Youtube 
+Project Demo is available at ->
 <a href="https://youtu.be/TVoRNWqirNM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pradyothp" height="30" width="40" /></a>
