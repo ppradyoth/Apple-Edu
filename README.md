@@ -36,3 +36,9 @@ Concepts Illustrated:
  * Usage of URI.
 
 The program is divided into two files in two packages in order to illustrate the concept of Packages in Java.
+
+Project Conclusion: This project successfully completes its 2 primary objectives
+                        1. Displays contents of Apple Education store.
+                        2. Redirects users to the link where they can buy the product directly from Apple Inc.
+
+
