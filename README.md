@@ -11,9 +11,8 @@ TOPIC: Apple Education Store Catalogue
 
 AIM: To provide users with the contents of the products available in the Apple Education store at student discounts and to redirect them to the link where they          can buy the product directly from Apple Inc.
 
-Reason for this Project : 
- * Many people are unaware of the presence of Apple's Education Store and hence shy away from Apple Products due to their high pricing which is more than the value    the product has to offer.
- * I am hoping for that to change when people view this program and understand the benefits of Apple Products over others and opt for them if they are interested      and get the Student Discounts!
+Project Demo is available at ->
+<a href="https://youtu.be/TVoRNWqirNM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pradyothp" height="30" width="40" /></a>
 
 Concepts Illustrated:
  * Abstraction- Classes. 	  
@@ -40,6 +39,3 @@ The program is divided into two files in two packages in order to illustrate the
 Project Conclusion: This project successfully completes its 2 primary objectives
                         1. Displays contents of Apple Education store.
                         2. Redirects users to the link where they can buy the product directly from Apple Inc.
-
-Project Demo is available at ->
-<a href="https://youtu.be/TVoRNWqirNM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pradyothp" height="30" width="40" /></a>
